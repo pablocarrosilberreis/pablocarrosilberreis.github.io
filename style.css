@@ -1,0 +1,1094 @@
+.mediaViewInfo {
+    --web-view-name: ReverseBemol;
+    --web-view-id: ReverseBemol;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: ReverseBemol;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#ReverseBemol {
+    position: absolute;
+    width: 1920px;
+    height: 4286px;
+    background-color: rgba(245,200,26,1);
+    overflow: hidden;
+    --web-view-name: ReverseBemol;
+    --web-view-id: ReverseBemol;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Trazado_1 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(0,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_1 {
+    overflow: visible;
+    position: absolute;
+    width: 1288px;
+    height: 3875px;
+    left: 316px;
+    top: 77px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Componente_5__1 {
+    position: absolute;
+    width: 1920px;
+    height: 93px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectngulo_1 {
+    fill: rgba(0,0,0,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_1 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 93px;
+    left: 0px;
+    top: 0px;
+}
+#Canciones {
+    left: 1077px;
+    top: 21px;
+    position: absolute;
+    overflow: visible;
+    width: 211px;
+    height: 108px;
+    text-align: left;
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.45px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+#Grupo_8 {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 11px;
+    top: 13px;
+    overflow: visible;
+}
+#Componente_2__2 {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Componente_4__1 {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_7 {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_6 {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_5 {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#path98 {
+    position: absolute;
+    width: 25px;
+    height: 69px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_4 {
+    position: absolute;
+    width: 121px;
+    height: 103px;
+    left: 30px;
+    top: 0px;
+    overflow: visible;
+}
+#Bemol_ {
+    left: 0px;
+    top: 29px;
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(255,255,255,1);
+}
+#Grupo_3 {
+    position: absolute;
+    width: 121px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_2 {
+    position: absolute;
+    width: 121px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Reve___se {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 68px;
+    line-height: 45px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+}
+#r {
+    transform: translate(-46px, -14px) matrix(1,0,0,1,69,16) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 47px;
+    height: 29px;
+    text-align: left;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(73,209,243,1);
+}
+#Entrevistas {
+    left: 867px;
+    top: 21px;
+    position: absolute;
+    overflow: visible;
+    width: 211px;
+    height: 108px;
+    text-align: left;
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.45px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+#NOTICIAS__ {
+    left: 705px;
+    top: 21px;
+    position: absolute;
+    overflow: hidden;
+    width: 211px;
+    height: 108px;
+    text-align: left;
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.45px;
+    text-decoration: underline;
+}
+
+#asan {
+    position: absolute;
+    width: 792px;
+    height: 511px;
+    left: 360px;
+    top: 137px;
+    overflow: visible;
+}
+#Ysy {
+    position: absolute;
+    width: 385px;
+    height: 247px;
+    left: 1183px;
+    top: 137px;
+    overflow: visible;
+}
+#Dukooo {
+    position: absolute;
+    width: 385px;
+    height: 247px;
+    left: 1183px;
+    top: 400px;
+    overflow: visible;
+}
+#Trazado_2 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(0,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Trazado_2 {
+    overflow: visible;
+    position: absolute;
+    width: 1208px;
+    height: 1304px;
+    left: 360px;
+    top: 688px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#YSY_A__Silbando_Su_Session_Nro {
+    left: 1190px;
+    top: 284px;
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 123px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+#Rectngulo_7 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_7 {
+    position: absolute;
+    overflow: visible;
+    width: 744px;
+    height: 1256px;
+    left: 384px;
+    top: 712px;
+}
+
+#Rectngulo_9 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_9 {
+    position: absolute;
+    overflow: visible;
+    width: 1208px;
+    height: 1304px;
+    left: 360px;
+    top: 2032px;
+}
+#SPOTIFY {
+    left: 1297px;
+    top: 900px;
+    position: absolute;
+    overflow: visible;
+    width: 202px;
+    height: 190px;
+    text-align: left;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(0,0,0,1);
+}
+#Nicki_Nicole__el_freestyle_me_ {
+    left: 678px;
+    top: 800px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#NOTICIAS___ba {
+    left: 408px;
+    top: 720px;
+    position: absolute;
+    overflow: hidden;
+    width: 131px;
+    height: 40px;
+    text-align: left;
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.45px;
+    text-decoration: underline;
+}
+#Entrevistas_bb {
+    left: 382px;
+    top: 2044px;
+    position: absolute;
+    overflow: visible;
+    width: 211px;
+    height: 108px;
+    text-align: left;
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.45px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+#Rectngulo_14 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_14 {
+    position: absolute;
+    overflow: visible;
+    width: 384px;
+    height: 792px;
+    left: 1160px;
+    top: 1176px;
+}
+#TENDENCIAS_ {
+    left: 1176px;
+    top: 1176px;
+    position: absolute;
+    overflow: hidden;
+    width: 185px;
+    height: 40px;
+    text-align: left;
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.45px;
+    text-decoration: underline;
+}
+#Nicky_nicole {
+    position: absolute;
+    width: 256px;
+    height: 248px;
+    left: 408px;
+    top: 800px;
+    overflow: visible;
+}
+#Grisela_Flores_fue_la_encargad {
+    left: 678px;
+    top: 928px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Billboard_Argentina__mircoles_ {
+    left: 680px;
+    top: 897px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 31px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(7,114,207,1);
+}
+#Cazzu_recibe_el_disco_de_oro_p {
+    left: 680px;
+    top: 1098px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#cazzu {
+    position: absolute;
+    width: 256px;
+    height: 248px;
+    left: 408px;
+    top: 1096px;
+    overflow: visible;
+}
+#Cazzu_artista_Universal_Music_ {
+    left: 680px;
+    top: 1226px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Billboard_AR__mircoles_21_octu {
+    left: 678px;
+    top: 1193px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 31px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(7,114,207,1);
+}
+#Conociendo_Rusia_y_Fito_Paez_d {
+    left: 678px;
+    top: 1394px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#conociendo_rusia {
+    position: absolute;
+    width: 256px;
+    height: 248px;
+    left: 408px;
+    top: 1392px;
+    overflow: visible;
+}
+#Se_trata_del_primer_debut_en_e {
+    left: 680px;
+    top: 1529px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Billboard_Argentina__martes_20 {
+    left: 678px;
+    top: 1489px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 31px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(7,114,207,1);
+}
+#Movistar_FriStyle_Duki_vuelve_ {
+    left: 678px;
+    top: 1681px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Duko2 {
+    position: absolute;
+    width: 256px;
+    height: 248px;
+    left: 408px;
+    top: 1688px;
+    overflow: visible;
+}
+#La_cuarta_edicin_del_Movistar_ {
+    left: 680px;
+    top: 1825px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#LaNacion__mircoles_21_de_octub {
+    left: 678px;
+    top: 1785px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 31px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(7,114,207,1);
+}
+#Elreja {
+    position: absolute;
+    width: 352px;
+    height: 224px;
+    left: 1176px;
+    top: 1240px;
+    overflow: visible;
+}
+#Lira_x_El_Reja_-_Besame {
+    left: 1176px;
+    top: 1479px;
+    position: absolute;
+    overflow: visible;
+    width: 353px;
+    height: 52px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Lnea_1 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Lnea_1 {
+    overflow: visible;
+    position: absolute;
+    width: 712px;
+    height: 1px;
+    left: 400px;
+    top: 1368px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_2 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Lnea_2 {
+    overflow: visible;
+    position: absolute;
+    width: 712px;
+    height: 1px;
+    left: 400px;
+    top: 1072px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_3 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Lnea_3 {
+    overflow: visible;
+    position: absolute;
+    width: 712px;
+    height: 1px;
+    left: 400px;
+    top: 1664px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Lira_y_el_reja_en_una_nueva_pr {
+    left: 1176px;
+    top: 1528px;
+    position: absolute;
+    overflow: visible;
+    width: 353px;
+    height: 64px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Nicky_nicole_acustico {
+    position: absolute;
+    width: 352px;
+    height: 224px;
+    left: 1176px;
+    top: 1600px;
+    overflow: visible;
+}
+#Nicky_Nicole-Plegarias {
+    left: 1176px;
+    top: 1839px;
+    position: absolute;
+    overflow: visible;
+    width: 353px;
+    height: 52px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Nicky_Nicole_con_la_nueva_vers {
+    left: 1176px;
+    top: 1888px;
+    position: absolute;
+    overflow: visible;
+    width: 353px;
+    height: 64px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Duko_entrevista {
+    position: absolute;
+    width: 360px;
+    height: 552px;
+    left: 400px;
+    top: 2128px;
+    overflow: visible;
+}
+#khea {
+    position: absolute;
+    width: 360px;
+    height: 552px;
+    left: 1160px;
+    top: 2744px;
+    overflow: visible;
+}
+#Rectngulo_19 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_19 {
+    position: absolute;
+    overflow: visible;
+    width: 1208px;
+    height: 535px;
+    left: 360px;
+    top: 3377px;
+}
+#Canciones_b {
+    left: 382px;
+    top: 3393px;
+    position: absolute;
+    overflow: visible;
+    width: 211px;
+    height: 108px;
+    text-align: left;
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.45px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+#Rectngulo_21 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_21 {
+    position: absolute;
+    overflow: visible;
+    width: 568px;
+    height: 432px;
+    left: 384px;
+    top: 3456px;
+}
+#khea_bzrp {
+    position: absolute;
+    width: 568px;
+    height: 432px;
+    left: 976px;
+    top: 3456px;
+    overflow: visible;
+}
+#Lnea_4 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Lnea_4 {
+    overflow: visible;
+    position: absolute;
+    width: 1160px;
+    height: 1px;
+    left: 384px;
+    top: 2709px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectngulo_25 {
+    fill: rgba(0,0,0,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectngulo_25 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 336px;
+    left: 0px;
+    top: 3952px;
+}
+#Duki_Todava_hay_que_entrenar_e {
+    left: 790px;
+    top: 2128px;
+    position: absolute;
+    overflow: visible;
+    width: 739px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Por_Ezequiel_Ruiz__24_de_Junio {
+    left: 790px;
+    top: 2231px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 31px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(7,114,207,1);
+}
+#Cuando_me_empez_a_conocer_ms_g {
+    left: 790px;
+    top: 2270px;
+    position: absolute;
+    overflow: visible;
+    width: 739px;
+    height: 410px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Khea_Mi_misin_es_estar_todo_el {
+    left: 400px;
+    top: 2744px;
+    position: absolute;
+    overflow: visible;
+    width: 739px;
+    height: 95px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Yeray_S_Iborra__25-03-2020 {
+    left: 400px;
+    top: 2847px;
+    position: absolute;
+    overflow: visible;
+    width: 441px;
+    height: 31px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(7,114,207,1);
+}
+#Cmo_se_amasan_millones_de_repr {
+    left: 400px;
+    top: 2886px;
+    position: absolute;
+    overflow: visible;
+    width: 739px;
+    height: 410px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#mamichula {
+    position: absolute;
+    width: 568px;
+    height: 432px;
+    left: 384px;
+    top: 3456px;
+    overflow: visible;
+}
+#Componente_2__1 {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 884.5px;
+    top: 3969px;
+    overflow: visible;
+}
+#Componente_4__1_ci {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_7_cj {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_6_ck {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_5_cl {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#path98_cm {
+    position: absolute;
+    width: 25px;
+    height: 69px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_4_cn {
+    position: absolute;
+    width: 121px;
+    height: 103px;
+    left: 30px;
+    top: 0px;
+    overflow: visible;
+}
+#Bemol__co {
+    left: 0px;
+    top: 29px;
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(255,255,255,1);
+}
+#Grupo_3_cp {
+    position: absolute;
+    width: 121px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_2_cq {
+    position: absolute;
+    width: 121px;
+    height: 68px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Reve___se_cr {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 68px;
+    line-height: 45px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+}
+#r_cs {
+    transform: translate(-46px, -14px) matrix(1,0,0,1,69,16) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 47px;
+    height: 29px;
+    text-align: left;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(73,209,243,1);
+}
+#Asan__el_make_off_de_su_ep_emo {
+    left: 384px;
+    top: 520px;
+    position: absolute;
+    overflow: visible;
+    width: 455px;
+    height: 92px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+#DUKI__Un_tema_para_recordar {
+    left: 1190px;
+    top: 541px;
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 123px;
+    text-align: left;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
